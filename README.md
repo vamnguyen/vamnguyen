@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm AnhMinhdev</h1>
 <h3 align="center">Builder of exceptional life</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://inkythuatso.com/uploads/thumbnails/800/2022/05/anh-meo-cute-trai-tim-6-10-11-49-23.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anhminhdev&label=Profile%20views&color=0e75b6&style=flat" alt="anhminhdev" /> </p>
