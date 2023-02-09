@@ -28,6 +28,7 @@
 <a href="https://linkedin.com/in/anhminhdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anhminhdev" height="30" width="40" /></a>
 <a href="https://fb.com/wcnvam.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/wcnvam.dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCxXMfTziqr-qbOefHIwOjtA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxxmftziqr-qboefhiwojta" height="30" width="40" /></a>
+<a href="https://twitter.com/anhminhdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/anhminhdev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anhminh_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anhminh_dev" height="30" width="40" /></a>
 </p>
 
