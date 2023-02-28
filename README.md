@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [https://www.facebook.com/UIT.Fanpage](https://www.facebook.com/UIT.Fanpage)
 
-- 🌱 I’m currently learning **ReactJS, Bootstrap, TypeScript**
+- 🌱 I’m currently learning **I don't know**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anhminhdev](https://github.com/anhminhdev)
 
