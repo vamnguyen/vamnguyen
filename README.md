@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhminhdev" alt="anhminhdev" /></a> </p>
 
-- 🔭 I’m currently working on [](Microsoft :D)
+- 🔭 Currently, I’m a Freshman major Computer Science at [UIT](https://www.facebook.com/UIT.Fanpage)
 
 - 🌱 I’m currently learning **React, Jav, React Native**
 
