@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhminhdev" alt="anhminhdev" /></a> </p>
 
-- 🔭 I’m currently working on [https://www.facebook.com/UIT.Fanpage](https://www.facebook.com/UIT.Fanpage)
+- 🔭 I’m currently working on [](Microsoft :D)
 
 - 🌱 I’m currently learning **React, Jav, React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anhminhdev](https://github.com/anhminhdev)
 
-- 📝 I regularly write articles on [Unknown](Unknown)
+- 📝 I regularly write articles on [myBlog](myBlog)
 
 - 💬 Ask me about **life philosophy**
 
