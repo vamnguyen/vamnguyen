@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **React, Jav, React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anhminhdev](https://github.com/anhminhdev)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/anhminhdev)
 
 - 📝 I regularly write articles on [myBlog](myBlog)
 
-- 💬 Ask me about **life philosophy**
+- 💬 Ask me about **Life Philosophy**
 
 - 📫 How to reach me **anhminh.dev@gmail.com**
 
