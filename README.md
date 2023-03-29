@@ -11,7 +11,7 @@
 
 - 🔭 Currently, I’m a Freshman major Computer Science at [UIT](https://www.facebook.com/UIT.Fanpage)
 
-- 🌱 I’m currently learning **I'm studying to become a Software Developer**
+- 🌱 **I'm studying to become a Software Developer**
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/anhminhdev)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **anhminh.dev@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I am humorous**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
