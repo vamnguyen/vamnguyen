@@ -11,7 +11,7 @@
 
 - 🔭 Currently, I’m a Freshman major Computer Science at [UIT](https://www.facebook.com/UIT.Fanpage)
 
-- 🌱 I’m currently learning **React, Jav, React Native**
+- 🌱 I’m currently learning **I'm studying to become a Software Developer**
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/anhminhdev)
 
