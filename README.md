@@ -9,9 +9,9 @@
 
 - 🌱 **I'm studying to become a Software Developer**
 
-- 👨‍💻 All of my projects are available at [My Github](https://github.com/anhminhdev)
+- 👨‍💻 All of my projects are available at [my Github](https://github.com/anhminhdev)
 
-- 📝 I regularly write articles on [anhminhdev.com](https://dev.to/anhminhdev)
+- 📝 I regularly write articles on my Blog: [anhminhdev.com](https://dev.to/anhminhdev)
 
 - 💬 Ask me about **Life Philosophy**
 
