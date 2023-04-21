@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/anhminhdev)
 
-- 📝 I regularly write articles on [My Blog](https://dev.to/anhminhdev)
+- 📝 I regularly write articles on [anhminhdev.com](https://dev.to/anhminhdev)
 
 - 💬 Ask me about **Life Philosophy**
 
