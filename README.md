@@ -9,7 +9,7 @@
 
 - 🌱 **I'm studying to become a Software Developer**
 
-- 👨‍💻 All of my projects are available at [my Github](https://github.com/anhminhdev)
+- 👨‍💻 All of my projects are available at [my Github](https://github.com/vamnguyen)
 
 - 📝 I regularly write articles on my Blog: [vamnguyen.com](https://dev.to/vamnguyen)
 
