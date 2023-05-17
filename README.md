@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm VAM Nguyen</h1>
 <h3 align="center">Builder of exceptional life</h3>
-<img align="right" alt="Coding" width="400" src="https://inkythuatso.com/uploads/thumbnails/800/2022/05/anh-meo-cute-trai-tim-6-10-11-49-23.jpg">
+<img align="right" alt="Coding" width="400" height="330" object-fit="cover" src="https://inkythuatso.com/uploads/thumbnails/800/2022/05/anh-meo-cute-trai-tim-6-10-11-49-23.jpg">
 
 
 - 🔭 Currently, I’m a Freshman major Computer Science at [UIT](https://www.facebook.com/UIT.Fanpage)
@@ -18,8 +18,8 @@
 - 📫 How to reach me **anhminh.dev@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/vamnguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vamnguyen" height="30" width="40" /></a>
 <a href="https://fb.com/wcnvam.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/wcnvam.dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCxXMfTziqr-qbOefHIwOjtA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxxmftziqr-qboefhiwojta" height="30" width="40" /></a>
