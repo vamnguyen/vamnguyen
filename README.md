@@ -1,6 +1,8 @@
 <!-- ![logo](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1675850999~exp=1675851599~hmac=440e90cd5330517debd3cbf79e540117d4d46477aa32f97d00b1c2b9f7ff4d4e) -->
+![Coffee_Cup_Background_Linkedin_Banner](https://github.com/vamnguyen/vamnguyen/assets/120087002/707e1956-b401-41eb-963e-4fcff074764e)
 
 <h1 align="center">Hi 👋, I'm VAM Nguyen</h1>
+
 <h3 align="center">Builder of exceptional life</h3>
 <img align="right" alt="Coding" width="400" height="330" object-fit="cover" src="https://inkythuatso.com/uploads/thumbnails/800/2022/05/anh-meo-cute-trai-tim-6-10-11-49-23.jpg">
 
