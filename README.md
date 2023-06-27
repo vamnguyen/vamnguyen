@@ -15,8 +15,6 @@
 
 - 📝 I regularly write articles on my Blog: [vamnguyen.com](https://dev.to/vamnguyen)
 
-- 💬 Ask me about **Life Philosophy**
-
 - 📫 How to reach me **anhminh.dev@gmail.com**
 
 
