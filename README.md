@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm VAM Nguyen</h1>
 
 <h3 align="center">Builder of exceptional life</h3>
-<img align="right" alt="Coding" width="400" height="330" object-fit="contain" src="![image](https://github.com/vamnguyen/vamnguyen/assets/120087002/384936e9-4ee4-4f44-b05c-065cef435030)">
+<img align="right" alt="Coding" width="400" height="330" object-fit="contain" src="![avatar](https://github.com/vamnguyen/vamnguyen/assets/120087002/384936e9-4ee4-4f44-b05c-065cef435030)">
 
 
 - 🔭 Currently, I’m a Freshman major Computer Science at [UIT](https://www.facebook.com/UIT.Fanpage)
