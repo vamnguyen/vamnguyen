@@ -5,7 +5,7 @@
 
 <h3 align="center">Builder of exceptional life</h3>
 
-<img align="right" alt="Coding" width="400" height="400" object-fit="cover" src="">
+<!--<img align="right" alt="Coding" width="400" height="400" object-fit="cover" src="">-->
 
 
 - 🔭 Currently, I’m a Freshman majoring in Computer Science at [UIT](https://www.facebook.com/UIT.Fanpage)
