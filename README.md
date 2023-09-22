@@ -5,7 +5,7 @@
 
 <h3 align="center">Builder of exceptional life</h3>
 
-<img align="right" alt="Coding" width="400" height="400" object-fit="cover" src="https://github.com/vamnguyen/vamnguyen/assets/120087002/dd8d763f-f451-4e80-8805-6401479d9adc">
+<img align="right" alt="Coding" width="400" height="400" object-fit="cover" src="">
 
 
 - 🔭 Currently, I’m a Freshman majoring in Computer Science at [UIT](https://www.facebook.com/UIT.Fanpage)
