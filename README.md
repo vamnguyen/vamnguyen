@@ -10,7 +10,7 @@
 
 - 🔭 Currently, I’m a Freshman majoring in Computer Science at [UIT](https://www.facebook.com/UIT.Fanpage)
 
-- 🌱 **I'm studying to become a Business Investor**
+- 🌱 **I'm studying to become an Entrepreneur**
 
 - 👨‍💻 All of my projects are available at [my Github](https://github.com/vamnguyen)
 
