@@ -8,9 +8,9 @@
 <!--<img align="right" alt="Coding" width="400" height="400" object-fit="cover" src="">-->
 
 
-- 🔭 Currently, I’m a Freshman majoring in Computer Science at [UIT](https://www.facebook.com/UIT.Fanpage)
+- 🔭 Currently, I’m a student majoring in Computer Science at [UIT](https://www.facebook.com/UIT.Fanpage)
 
-- 🌱 **I'm studying to become an Entrepreneur**
+- 🌱 **I'm studying to become Developer/Entrepreneur/Investor**
 
 - 👨‍💻 All of my projects are available at [my Github](https://github.com/vamnguyen)
 
