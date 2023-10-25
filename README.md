@@ -1,5 +1,6 @@
-![Coffee_Cup_Background_Linkedin_Banner](https://github.com/vamnguyen/vamnguyen/assets/120087002/707e1956-b401-41eb-963e-4fcff074764e)
-<!--![cover-image](https://github.com/vamnguyen/vamnguyen/assets/120087002/4b2f61f1-022a-4d32-9217-d4b4a5b17128)-->
+<!--![Coffee_Cup_Background_Linkedin_Banner](https://github.com/vamnguyen/vamnguyen/assets/120087002/707e1956-b401-41eb-963e-4fcff074764e)-->
+![cover-image](https://github.com/vamnguyen/vamnguyen/assets/120087002/604b3f62-76cb-4d1c-93ce-d1ae755f702b)
+
 
 <h1 align="center">Hi 👋, I'm VAM Nguyen</h1>
 
