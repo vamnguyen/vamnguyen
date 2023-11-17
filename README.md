@@ -1,5 +1,5 @@
 <!--![Coffee_Cup_Background_Linkedin_Banner](https://github.com/vamnguyen/vamnguyen/assets/120087002/707e1956-b401-41eb-963e-4fcff074764e)-->
-![cover-image](https://github.com/vamnguyen/vamnguyen/assets/120087002/604b3f62-76cb-4d1c-93ce-d1ae755f702b)
+![cover-image](https://github.com/vamnguyen/vamnguyen/assets/120087002/9e989075-864c-477d-9777-b7f4072b63f6)
 
 
 <h1 align="center">Hi 👋, I'm VAM Nguyen</h1>
